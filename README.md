@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link type="text/css" rel="stylesheet" href="style. css" />
+<link type="text/css" rel="stylesheet" href="https://github.com/GreenRoses04/groses/blob/style.css/README.md" />
 </head>
 <body>
 <p> 👋 Hi, I’m <i style="color:blue;">@Raciram04</i></p><br>
